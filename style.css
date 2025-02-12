@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+  }
+  body{
+    font-family: "Lucida Console", Courier, monospace; 
+    padding: 50px 20px;
+    background-color: azur;
+  }
+  h1{
+    font-size:32px;
+    font-weight: 800;
+    text-align: center;
+    color: Crimson;
+    margin-bottom: 30px;
+  }
+  h2 {
+    font-size:24px;
+    font-weight: 600;
+    text-align: center;
+    background-color: LightCyan;
+    opacity: 0.8;
+    color: Orchid;
+    margin-bottom: 20px;
+    margin-top: 30px;
+  }
+  
+  thead {
+  
+    font-size:18px;
+    font-weight: 800;
+    text-align: center;
+    color: DarkSlateBlue;
+  }
+  .tag-name{
+   
+    font-size:12px;
+    font-weight: 400;
+    text-align: center;
+    color: black;
+  }
+  .tag-name span {
+    background-color: LightPink;
+  }
+  td{
+    padding: 2px 5px;
+    text-transform: lowercase;
+    
+  }
+  .name {
+  font-size: 16px;
+  text-align: center;
+  font-weight: 600;
+  color: DimGray;
+  }
+  .description {
+    font-size: 14px;
+  }
+  
